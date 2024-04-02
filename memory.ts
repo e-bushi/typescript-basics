@@ -1,0 +1,1 @@
+//Basic storage: lets, consts, vars
